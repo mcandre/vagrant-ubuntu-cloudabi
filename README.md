@@ -28,6 +28,10 @@ Hello World!
 * The [VirtualBox](https://www.virtualbox.org) hypervisor provider
 * [make](https://www.gnu.org/software/make/)
 
+# TARGET ARCHITECTURES
+
+* x86_64
+
 # EXPORT
 
 ```console
